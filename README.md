@@ -4,7 +4,7 @@
   </a>
 </p>
 
-<h1 align="center">A <a href="https://www.webopedia.com/definitions/hwid/">HWID Parser</a>!</h1>
+<h1 align="center">Simple <a href="https://www.webopedia.com/definitions/hwid/">HWID Parser</a>!</h1>
 <p align="center">
   <a href="https://www.webopedia.com/definitions/hwid/">
   </a>
